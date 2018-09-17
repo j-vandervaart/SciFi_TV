@@ -1,0 +1,98 @@
+// shows collection
+
+[{
+        "_id" : ObjectId("5aaa8bc8e92779e06cf9f3f3"),
+        "name" : "Star Trek: TNG",
+        "desc" : "Set decades after Captain Kirk's five-year mission, a new generation of Starfleet officers set off in a new Enterprise on their own mission to go where no one has gone before.",
+        "img" : "sttng.jpg",
+        "cast" : "Patrick Stewart, Brent Spiner, Jonathan Frakes",
+        "episodes" : [
+                ObjectId("5aaa876ce92779e06cf9f3f2"),
+                ObjectId("5aaaa6cde92779e06cf9f3f4"),
+                ObjectId("5aaabc10e92779e06cf9f3f5")
+        ]
+},
+{
+        "_id" : ObjectId("5aaac258e92779e06cf9f3f9"),
+        "name" : "Orphan Black",
+        "desc" : "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+        "img" : "ob.jpg",
+        "cast" : "Kim Coghill, Andrew De Angelis, Jordan Gavaris",
+        "episodes" : [
+                ObjectId("5aaabe99e92779e06cf9f3f6"),
+                ObjectId("5aaabfbfe92779e06cf9f3f7"),
+                ObjectId("5aaac11de92779e06cf9f3f8")
+        ]
+},
+{
+        "_id" : ObjectId("5aaac8c1e92779e06cf9f3fd"),
+        "name" : "Black Mirror",
+        "desc" : "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.",
+        "img" : "bm.jpg",
+        "cast" : "Daniel Lapaine, Hannah John-Kamen, Michaela Coel",
+        "episodes" : [
+                ObjectId("5aaac5fbe92779e06cf9f3fa"),
+                ObjectId("5aaac5fbe92779e06cf9f3fb"),
+                ObjectId("5aaac7b6e92779e06cf9f3fc")
+        ]
+},
+{
+        "_id" : ObjectId("5aaacbb3e92779e06cf9f401"),
+        "name" : "Twilight Zone",
+        "desc" : "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner.",
+        "img" : "tz.jpg",
+        "cast" : "Rod Serling, Robert McCord, Jay Overholts",
+        "episodes" : [
+                ObjectId("5aaac9cee92779e06cf9f3fe"),
+                ObjectId("5aaaca62e92779e06cf9f3ff"),
+                ObjectId("5aaacb09e92779e06cf9f400")
+        ]
+},
+{
+        "_id" : ObjectId("5aaad986e92779e06cf9f405"),
+        "name" : "The X-Files",
+        "desc" : "Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.",
+        "img" : "xf.jpg",
+        "cast" : "David Duchovny, Gillian Anderson, Mitch Pileggi",
+        "episodes" : [
+                ObjectId("5aaad89de92779e06cf9f402"),
+                ObjectId("5aaad89de92779e06cf9f403"),
+                ObjectId("5aaad89de92779e06cf9f404")
+        ]
+},
+{
+        "_id" : ObjectId("5aaadc3de92779e06cf9f409"),
+        "name" : "Stranger Things",
+        "desc" : "When a young boy disappears, his mother, a police chief, and his friends, must confront terrifying forces in order to get him back.",
+        "img" : "strangert.jpg",
+        "cast" : "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
+        "episodes" : [
+                ObjectId("5aaadb6ee92779e06cf9f406"),
+                ObjectId("5aaadb6ee92779e06cf9f407"),
+                ObjectId("5aaadb6ee92779e06cf9f408")
+        ]
+},
+{
+        "_id" : ObjectId("5aaae10ce92779e06cf9f40d"),
+        "name" : "Firefly",
+        "desc" : "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+        "img" : "firefly.jpg",
+        "cast" : "Nathan Fillion, Gina Torres, Alan Tudyk",
+        "episodes" : [
+                ObjectId("5aaadf9ee92779e06cf9f40a"),
+                ObjectId("5aaadf9ee92779e06cf9f40b"),
+                ObjectId("5aaadf9ee92779e06cf9f40c")
+        ]
+},
+{
+        "_id" : ObjectId("5aaae83be92779e06cf9f411"),
+        "name" : "Westworld",
+        "desc" : "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+        "img" : "ww.jpg",
+        "cast" : "Evan Rachel Wood, Jeffrey Wright, Ed Harris",
+        "episodes" : [
+                ObjectId("5aaae710e92779e06cf9f40e"),
+                ObjectId("5aaae750e92779e06cf9f40f"),
+                ObjectId("5aaae787e92779e06cf9f410")
+        ]
+}]

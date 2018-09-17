@@ -1,0 +1,89 @@
+// news collection
+
+[{
+        "_id" : ObjectId("5ab01be14a90745f2a9229a8"),
+        "header" : "When good TV goes bad: how The X-Files lost its x-factor",
+        "showName" : "The X-Files",
+        "teaser" : "Now in its 11th season, the prolonged smoke and mirror routine is turning audiences off the once intriguing Mulder and Scully saga",
+        "author" : "Rich Pelley",
+        "img" : "xfiles.jpg",
+        "class" : "xfiles",
+        "story" : [
+                "It is difficult to pinpoint the exact moment The X-Files jumped the shark as the whole show was so, well, shark-jumpy. It is much easier to point out the best ever spin-off episode: 1997's The Springfield Files, in which Mulder and Scully arrived in The Simpsons to investigate a glowing alien that - SPOILER ALERT! - turned out to be a radioactive Mr Burns on his way home from the power plant.",
+                "Perhaps the fact that The X-Files was happy to send itself up so early in its original run meant it was already partially aware of what a load of nonsense it was. It was a show that lived on the knife-edge. The first was its subject matter. Are we really expected to believe in the supernatural or are there rational explanations? We are never given an it-was-the-janitor-all-along, Scooby-Doo-style reveal. Nor did we find out that Mulder had ET living in his cupboard. Instead, all spooky shenanigans were left infuriatingly ambiguous.",
+                "The second knife-edge was the relationship between the lead characters. When FBI agents Fox Mulder (loves all this weird shit) and Dana Scully (thinks it's baloney) teamed up to investigate paranormal cases, they developed more than a platonic relationship. When would they finally get round to doing it? And would their offspring have three fingers and huge glowing eyes? Scully was left infertile after being kidnapped and experimented on in 1997, so kids looked off the table. But in season eight (2001), we learned that they had a son, William, who was later put up for adoption. William's DNA tests revealed him as part alien, suggesting Mulder wasn't the father. Of which more later.",
+                "So, when did The X-Files jump the shark? There was the terrible werewolf episode in the first series; the rubbish voodoo one in series two; and the stupid one about evil water (yes, water) in series six. There is the fact that David Duchovny wasn't even in series eight and nine properly. They said he'd been kidnapped by aliens, but he was actually having a row with the Fox network about money. There have been two X-Files films, both a bit meh. There is even an episode in series nine called Jump the Shark. DID THEY KNOW?",
+                "The X-Files returned in 2016 for its 11th series, screening on Channel 5 to some fanfare, but season 12 opened to widespread criticism at a massive shark-jump moment that left even the Daily Mail feeling 'violated' by the 'worst plot twist ever'. Ready? The mysterious Cigarette Smoking Man confessed that he impregnated Scully using 'Calien science' to create 'the first superhuman child'. He's William's father. Picked your jaw up off the ground yet?",
+                "Will their alien/human teenage son have Spock-like ears and find everything 'Cillogical'? Mulder and Scully only have nine episodes to find him, as Gillian Anderson has announced she will be quitting. Will we get answers? Will the level of ridiculousness in this (probable) final series simply be par for the course? Or was The X-Files just not much good in the first place? We still want to believe. But who knows what to believe any more?"
+        ]
+},
+{
+        "_id" : ObjectId("5ab020ce4a90745f2a9229a9"),
+        "header" : "Free Your Mind? ‘Black Mirror’ Isn’t Too Hopeful",
+        "showName" : "Black Mirror",
+        "teaser" : "The episodes of the new season of “Black Mirror,” like “Black Museum”, are becoming increasingly indistinguishable from supernatural horror tales.",
+        "author" : "James Poniewozik",
+        "img" : "blackmirror.jpg",
+        "class" : "blackmirror",
+        "story" : [
+                "The following essay includes plot points for episodes of 'Black Mirror,' including Season 4, which arrived on Dec. 29 on Netflix.",
+                "In the beginning, there was a rock. Pretty soon, someone got bashed in the head with it. Not long after that, someone fashioned a stone knife. Bronze, iron, steel: knife, knife, knife.",
+                "Create a tool, and someone will weaponize it: This has been the theme of Charlie Brooker's speculative tech anthology, 'Black Mirror.'",
+                "Since the series began in 2011, its anxieties have evolved. 'Black Mirror' was first concerned about media, in episodes like 'The National Anthem' (in which kidnappers coerce the British prime minister into having sex with a pig on live TV) and 'The Waldo Moment' (a crude cartoon character runs for office). Then it focused on internet culture, in 'Nosedive' (about a society in which one's welfare is tied to one's online popularity) and 'Hated in the Nation' (a parable about social-media mobs).",
+                "In Season 4, Mr. Brooker has turned his dark imagination to the digitization of consciousness itself - what people will do with, and to, human minds that have been rendered into zeros and ones.",
+                "Unsurprisingly, Mr. Brooker is not optimistic. Where some futurists might see the potential for immortality or richly augmented brains, 'Black Mirror' sees the opportunity for people to commit their usual cruelty and selfishness, creatively and in perpetuity."
+        ]
+},
+{
+        "_id" : ObjectId("5ab02f2f4a90745f2a9229aa"),
+        "header" : "The Enduring Legacy of The Twilight Zone",
+        "showName" : "The Twilight Zone",
+        "teaser" : "The Twilight Zone won numerous industry awards and wide critical praise during its five-season run from 1959 to 1964 on CBS, confirming Serling’s place as one of the most prolific and innovative writers and producers to emerge from the live-drama era of the 1950s, television’s original 'golden age.'",
+        "author" : "Brian Murray",
+        "img" : "twilightzone.jpg",
+        "class" : "twilightzone",
+        "story" : [
+                "In his 1961 address to the annual convention of the National Association of Broadcasters, Newton Minow famously offered a pessimistic assessment of America’s most exciting new industry. Television, declared Minow, was turning into a 'vast wasteland' of 'blood and thunder' and 'formula comedies.' Minow, the recently appointed head of the Federal Communications Commission, specified only one weekly series he found 'dramatic and moving,' a hopeful sign of what broadcast television could become. This was The Twilight Zone, which its creator and chief writer, Rod Serling, described as 'a series of imaginative tales that are not bound by time or space or the established laws of nature.'",
+                "The Twilight Zone won numerous industry awards and wide critical praise during its five-season run from 1959 to 1964 on CBS, confirming Serling’s place as one of the most prolific and innovative writers and producers to emerge from the live-drama era of the 1950s, television’s original 'golden age.' But by the time he died in 1975, Serling was probably less well known for his writerly creativity than as the host of a quiz show and as the face of TV commercials for cigarettes and cars.",
+                "What happened? How did the man who longed to be — and arguably was — television’s answer to Arthur Miller end up instead as an edgier version of Ed McMahon?",
+                "Exhaustion played a part. In a 1959 interview with Mike Wallace, Serling said he worked twelve to fourteen hours a day on The Twilight Zone, seven days a week, even as he kept other projects simmering. 'When I bend down to pick up a pencil,' he joked on another occasion, 'I’m five days behind.' At least one of his biographers, Joel Engel, also blames a growing taste for what Serling himself called the 'crazy, pink, whipped-cream world' that media fame opens up. Serling’s late career as a 'commercial huckster,' 'ham actor,' and 'professional celebrity,' Engel writes in his insightful Last Stop, the Twilight Zone (1989), grew out of an 'addiction to fame — and fortune — that cost him his chance at true greatness.'",
+                "But it is also true that by the time The Twilight Zone left the air, the trends that had worried Minow in 1961 were even easier to discern. During the 1950s the commercial networks were still burnishing television’s image, hoping to prove that this new and relatively expensive device was far more than an 'idiot box' or a 'boob tube.' Commercial television supplied culture as well as vaudeville — Shakespeare and Beethoven as well as Sergeant Bilko and Gorgeous George. In the late 1950s, when The Twilight Zone debuted, Omnibus was still on the air; that show had aired lectures, interviews, and performances of original screenplays as well as abbreviated versions of such classic works as King Learand La Bohème. Richard Burton appeared as Heathcliffe in the DuPont Show of the Month production of Wuthering Heights, and Leonard Bernstein gained national fame because CBS broadcast his Young People’s Concerts with the New York Philharmonic from Carnegie Hall.",
+                "But by 1970, if not before, almost none of the TV industry’s leaders really believed, with Minow, that they were 'public trustees' who should have faith in 'the people’s good sense and good taste,' shunning 'a relentless search for the highest rating and the lowest common denominator.' Television now demanded celebrity, not literary ability — probably the main reason Serling shifted from scriptwriting to shilling, lending his distinctive persona to the makers of toothpaste and beer and many other products. Of course it was ironic that the man who once compared television’s endless advertisements to 'traveling snake-oil shows' should end up as Madison Avenue’s go-to guy. But it was probably inevitable too, given the economic factors and programming assumptions shaping network TV. 'We had tilted at the same dragons for seven or eight years,' Serling said about the early television dramatists who, like himself, had battled publicly for quality TV. 'And, when the smoke cleared, the dragons had won.' Serling’s idealistic career, turned tacky in the end, reflects the direction of American television during its formative years."
+        ]
+},
+{
+        "_id" : ObjectId("5ab031bd4a90745f2a9229ab"),
+        "header" : "How Good Is Star Trek's Record at Predicting the Future of Tech?",
+        "showName" : "Star Trek: TNG",
+        "teaser" : "In this month’s Scientific American column, I wrote about Hollywood’s depiction of personal technology in the future. Lots of it is pure wishful-thinking silliness. But sometimes, you can sense the thought that’s been put into these props, and inventors eventually create them for use in the real world.",
+        "author" : "David Pogue",
+        "img" : "startrek.jpg",
+        "class" : "startrek",
+        "story" : [
+                "In this month’s Scientific American column, I wrote about Hollywood’s depiction of personal technology in the future. Lots of it is pure wishful-thinking silliness. But sometimes, you can sense the thought that’s been put into these props, and inventors eventually create them for use in the real world.",
+                "'Star Trek,' of course, was one of the most influential sci-fi shows of all time. Even the technologies of the original series, which ran on TV from 1966 to 1969, have inspired all kinds of inventions that have become commonplace in the real world. How many? Let’s have a look at the 'Star Trek' Prediction Scorecard.",
+                "Bluetooth earpieces. There it was, stuck into Uhura’s ear: The original Bluetooth wireless earpiece, looking and working just as they do today.",
+                "Hello, computer. What are Siri, Cortana, and 'OK Google,' if not the kind of call-and-response computer that Captain Kirk routinely queried?",
+                "Communicators. In 'Star Trek’s' day, phones were wired to the wall; the first cellphone prototype was still eight years away. Eventually, of course, our calls went wireless. And for about 30 years, the flip phone—a close lookalike of the Enterprise’s communicator—is what 'phones' looked like.",
+                "Universal translators. How do you think the Enterprise crew was able to converse with aliens speaking their own wacky languages? Using a Translator, of course. Now, products like Google’s Pixel Buds and Skype Translator purport to do the same thing: To translate a language someone is speaking into your own language, directly into your ear.",
+                "Sliding doors. Yep. They’re everywhere now, primarily at entrances to buildings you enter with your arms full, like airports and grocery stores.",
+                "'Star Trek: The Next Generation' (1987–1994) scored some bullseyes, too, including the tablet computer and the Holodeck, whose creation of virtual worlds around you is precisely what our virtual-reality goggles attempt to do today. Then there’s the show’s depiction of racial harmony, well-meaning space exploration, and teleporters. On those developments, we’re still waiting."
+        ]
+},
+{
+        "_id" : ObjectId("5ab034814a90745f2a9229ac"),
+        "header" : "Stranger Things’ Eleven Almost Didn't Survive Season One",
+        "showName" : "Stranger Things",
+        "teaser" : "The character of Eleven on Stranger Things, played brilliantly by actress Millie Bobby Brown, is key to what makes that show work so well, it’s almost impossible to imagine the series without her. And yet, if series creators the Duffer Brothers had kept to their original ideas for the show, it’s possible that season two of Stranger Things wouldn’t even have the character of Eleven in it at all.",
+        "author" : "Eric Diaz",
+        "img" : "strangerthings.jpg",
+        "class" : "strangerthings",
+        "story" : [
+                "The character of Eleven on Stranger Things, played brilliantly by actress Millie Bobby Brown, is key to what makes that show work so well, it’s almost impossible to imagine the series without her. And yet, if series creators the Duffer Brothers had kept to their original ideas for the show, it’s possible that season two of Stranger Things wouldn’t even have the character of Eleven in it at all.",
+                "In their original pitch, which we learned about via CinemaBlend, the show was supposed to be a one season 'one and done' mini-series, and it would have apparently ended with Eleven sacrificing herself to save the lives of her friends Mike, Dustin and Lucas. here’s what the Duffers had to say about Eleven’s original fate:",
+                "'Maybe I shouldn’t say this because I like to pretend that it was all planned out, but it was originally pitched as a limited series. So it was like, Eleven was gonna sacrifice herself and save the world and then that was gonna be it, because there was a moment where limited series were a big deal.'",
+                "Of course, just because Eleven originally died doesn’t mean she couldn’t have come back anyway. One of the many influences on Stranger Things is the 1980s run of Chris Claremont on The Uncanny X-Men, specifically the story of telekinetic Jean Grey. The psionic powerhouse shares more than a few similar traits to Eleven, chiefly her enormous psychic potential. Jean died many times in the pages of the comics, only to return.",
+                "Given the immense popularity of this particular ensemble, I can’t imagine Eleven will be going anywhere anytime soon, although who knows? Maybe the Duffers are saving Elle’s heroic self sacrifice for the end of the series now. Pun absolutely intended, but stranger things have happened.",
+                "What do you think about the first season’s original ending? Are you happy with what we got, or would you have preferred the more downbeat finale? Be sure to let us know your thoughts in the comments below."
+        ]
+}]

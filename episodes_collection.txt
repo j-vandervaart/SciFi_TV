@@ -1,0 +1,194 @@
+// episodes collection
+
+[{
+        "_id" : ObjectId("5aaa876ce92779e06cf9f3f2"),
+        "eps_name" : "The Best of Both Worlds",
+        "eps_number" : "S3.E26",
+        "synop" : "Admiral J. P. Hanson personally boarded the Enterprise to join the investigation of a destroyed Federation-colonized planet, suspecting the feared Borg. Before this is confirmed, he points out Commander William T. Riker has for the third time refused a command, preferring the Enterprise. Shortly after an enormous Borg ship is found, it engages in battle with the Enterprise, which draws it away. Novel tactics are conceived. Captain Jean-Luc Picard is ordered to come aboard for unprecedented discussions, and kidnapped when he refuses. He finds they tolerate no resistance, and intend to turn him into a Borg. Riker suddenly finds himself acting captain....",
+        "teaser" : "Responding to a distress call on one of the Federation's outer-most colonies, the Enterprise arrives...only to find a big hole in the ground where the town used to be, and discovers the Borg are behind the attack.",
+        "eps_img" : "thebestofbothworlds.jpg"
+},
+{
+        "_id" : ObjectId("5aaaa6cde92779e06cf9f3f4"),
+        "eps_name" : "The Inner Light",
+        "eps_number" : "S5.E25",
+        "synop" : "Not long after the Enterprise approaches an unknown buoy or satellite, Captain Picard falls unconscious on the bridge. He awakens in a village where he is married but also something of a village eccentric who thinks he is a spaceship captain by the name of Picard. His wife Eline tries to soothe him and his good friend Batai does not judge him. He lives a full life, has children and grows old. The planet he is on is dying however, suffering from a long and seemingly permanent drought. On board the Enterprise, the crew does its best to revive their unconscious captain but to no avail.",
+        "teaser" : "Picard awakes to find himself living in a small village where he is a well-known member of the community who is suffering from a delusion of being a starship captain.",
+        "eps_img" : "theinnerlight.jpg"
+},
+{
+        "_id" : ObjectId("5aaabc10e92779e06cf9f3f5"),
+        "eps_name" : "The Best of Both Worlds: Part II",
+        "eps_number" : "S4.E1",
+        "synop" : "With Captain Picard now a member of the Borg collective, Riker is given command of the Enterprise. He appoints Lt. Commander Shelby as his First Officer. The Enterprise slows the Borg cube but is in need of urgent repairs and cannot join the rest of the fleet as it engages the enemy. By the time the Enterprise has reached the battlefield, the Federation's fleet has been destroyed. The Borg now know everything that Picard knows and it's left to Riker to find a unique way to retrieve their captain. When they succeed, it's necessary for them to find a way to reach Picard's consciousness and find a Borg weakness.",
+        "teaser" : "The Enterprise tries to join Starfleet's defense against the Borg at Wolf 3-5-9, only to find the Borg already gone, and Starfleet gone...in a different way.",
+        "eps_img" : "thebestofbothworldspart2.jpg"
+},
+{
+        "_id" : ObjectId("5aaabe99e92779e06cf9f3f6"),
+        "eps_name" : "Certain Agony of the Battlefield",
+        "eps_number" : "S3.E6",
+        "synop" : "Helena has escaped and Sarah is now alone at the Castor base but has no idea what Dr. Coady may have injected into her.Believing that Dr. Coady is conducting unsanctioned tests on civilians, he sets out to find proof of just what she is up to. What he does find leads him to arrest Coady and call Washington for help.Delphine returns having heard of Sarah's disappearance and Felix approaches Scott to get information. Meanwhile, Alison and Donnie are rolling in cash but it's all gone to Donnie's head which threatens the entire operation. Alison has a business plan however.",
+        "teaser" : "Paul learns the truth about Coady's plans for Castor and has no choice but to make a dangerous play.",
+        "eps_img" : "certainagonyofthebattlefield.jpg"
+},
+{
+        "_id" : ObjectId("5aaabfbfe92779e06cf9f3f7"),
+        "eps_name" : "To Right the Wrongs of Many",
+        "eps_number" : "S5.E10",
+        "synop" : "Helena and Sarah were able to escape from Coady, but not before Helena's water broke. Still in the Dyad facility, they have to remain elusive from Coady, Westmorland and their operatives including Enger. Westmorland is becoming increasingly desperate as his health quickly deteriorates, meaning he needs Helena's babies now for a cure. While staying hidden from their adversaries, Sarah still has to help Helena deliver the babies, which means finding a safe, clean place for her to deliver, and the necessary equipment which would be located somewhere in the facility. What Sarah and Helena are unaware of is that Art is also at Dyad trying to help them. Whoever is able to get the babies will be able to use them as the cure, which if that is Helena and her sisters means that their next step will be to find and help as many other Ledas as they can. If Sarah is able to make it out of this situation alive, she will have to decide how best to move on with her life with Kira, which also means doing it without S",
+        "teaser" : "Now in labor, Helena is forced to hunker down in the basement of Old Dyad for the delivery. It's a cage match for survival as Sarah and Art struggle to protect her in a desperate last stand against Neolution.",
+        "eps_img" : "torightthewrongsofmany.jpg"
+},
+{
+        "_id" : ObjectId("5aaac11de92779e06cf9f3f8"),
+        "eps_name" : "By Means Which Have Never Yet Been Tried",
+        "eps_number" : "S2.E10",
+        "synop" : "Now that she has Kira and her harvested bone marrow, Rachel is holding all the cards. She replaces Delphine with a Dr. Nealon as the facility and thus Cosima's chief physician, not even letting Delphine say goodbye before she is escorted out of the facility. As such, Rachel can use Cosima and Kira as a bargaining chip, which works as Sarah feels she has no other option but to surrender herself to Dyad, although Sarah still stays as defiant as ever under the circumstances. However, some will do anything, even risk their own life, to stop whatever Rachel's grand plan. And on the outside, Mrs. S and Felix, with a little help, believe they may have an inside track on what's happening within the Dyad facility. Sarah ultimately has to decide whether to trust that insider and the promise made. And after the fire at the Johanssen farm, those involved are able to escape they hope to a better life. Helena hopes to reunite with Sarah and Kira, but what happens may be beyond her comprehension.",
+        "teaser" : "After the successful abduction of Kira, Sarah prepares to surrender to Rachel and the Dyad Group; but the Clone Club has other ideas as they band together to pull off the ultimate rescue.",
+        "eps_img" : "bymeanswhichhaveneveryetbeentried.jpg"
+},
+{
+        "_id" : ObjectId("5aaac5fbe92779e06cf9f3fa"),
+        "eps_name" : "White Christmas",
+        "eps_number" : "S2.E4",
+        "synop" : "In a remote cabin Joe Potter reluctantly celebrates Christmas with the enigmatic Matt who starts to tell Joe about his previous jobs. In one he guided the nervous Harry into picking up the desirable Jennifer through an implant in the boy's head through which Matt shouted instructions though Matt could not foresee that it would end in disaster. As a result his wife blocked him out of her life via a device which, by pressing a button, completely obliterated the person in question. His next job involved transferring peoples' brains into tiny robotic replicas of themselves through which they could control gadgets but he could control their life span, selling them to the gaming industry. Joe then tells Matt how the love of his life, Bethany, fell pregnant but did not want the baby and blocked him before disappearing. Later, after Bethany's death, Joe sees the child but gets a shock and an even bigger one when he realizes who Matt is and what he has been sent to do. The job done, Matt is also in for an unpleasant surprise.",
+        "teaser" : "Three interconnected tales of technology run amok during the Christmas season are told by two men at a remote outpost in a frozen wilderness.",
+        "eps_img" : "whitechristmas.jpg"
+},
+{
+        "_id" : ObjectId("5aaac5fbe92779e06cf9f3fb"),
+        "eps_name" : "San Junipero",
+        "eps_number" : "S3.E4",
+        "synop" : "In 1987, a shy woman named Yorkie (Mackenzie Davis) visits San Junipero, a beach resort town. Kelly (Gugu Mbatha-Raw), a vivacious party girl, strikes up a conversation with Yorkie at a night club in order to ditch Wes (Gavin Stenhouse), a man with whom she previously had sex. Kelly invites Yorkie to dance but Yorkie, self-conscious and embarrassed, flees from the bar. Kelly follows and flirts with Yorkie before propositioning her to go to bed together. Yorkie declines, saying she is engaged to a man named Greg. The following week, Yorkie returns to the bar and observes Kelly flirting with a different man. Yorkie and Kelly reunite in the bathroom before returning to Kelly's beach house to have sex. Yorkie confesses it is the first time she has had sex with anyone; Kelly says she is bisexual and was once married to a man.",
+        "teaser" : "In a seaside town in 1987, a shy young woman and an outgoing party girl strike up a powerful bond that seems to defy the laws of space and time.",
+        "eps_img" : "sanjunipero.jpg"
+},
+{
+        "_id" : ObjectId("5aaac7b6e92779e06cf9f3fc"),
+        "eps_name" : "The Entire History of You",
+        "eps_number" : "S1.E3",
+        "synop" : "In the future, most of the population has a chip called Grain implanted to record and watch the memory of the entire life. After a job interview, the lawyer Liam Foxwell takes an earlier flight to meet his wife Ffion in a dinner party with her old friends. When he unexpectedly arrives, Ffion is talking to her friend Jonas and Liam finds her reaction strange. Then he watches her glances at Jonas during the dinner and he suspects they have a love affair. Liam presses his wife for an answer and she admits that Jonas and she had a love affair in Marrakesh before she meets Liam. They have sex and Liam spends the night drinking and reviewing the reunion. On the next morning, he drives to the house of Jonas and confronts him. What will be the price of his obsession?",
+        "teaser" : "In the near future, everyone has access to a memory implant that records everything they do, see and hear - a sort of Sky Plus for the brain. You need never forget a face again - but is that always a good thing?",
+        "eps_img" : "theentirehistoryofyou.jpg"
+},
+{
+        "_id" : ObjectId("5aaac9cee92779e06cf9f3fe"),
+        "eps_name" : "Eye of the Beholder",
+        "eps_number" : "S2.E6",
+        "synop" : "Janet Tyler is in hospital having undergone treatment to make her look normal. It's her 11th trip to the hospital for treatment and she is desperate to look like everyone else. Some of her earliest childhood memories are of people looking away, horrified by her appearance. Her bandages will soon come off and she can only hope that this, her last treatment, will have done the trick. If not, her doctor has told she will be segregated with a colony of similar looking people. All that to say that truth is truly in the eye of the beholder.",
+        "teaser" : "A young woman lying in a hospital bed, her head wrapped in bandages, awaits the outcome of a surgical procedure performed by the State in a last-ditch attempt to make her look 'normal'.",
+        "eps_img" : "eyeofthebeholder.jpg"
+},
+{
+        "_id" : ObjectId("5aaaca62e92779e06cf9f3ff"),
+        "eps_name" : "Nightmare at 20,000 Feet",
+        "eps_number" : "S5.E3",
+        "synop" : "Bob Wilson is on a flight when he sees a creature of some sort out on the wing of the aircraft. He's only recently recovered from a nervous breakdown and isn't sure that what he is seeing is real. Every time someone else looks out the window, the creature hides from view. When the creature begins to tamper with one of the engines he begs him wife to tell the pilots to keep an eye on the engines. If they see nothing, he agrees to commit himself to an asylum when they arrive at their destination. His paranoia drives him to a desperate act.",
+        "teaser" : "A man, newly recovered from a nervous breakdown, becomes convinced that a monster only he sees is damaging the plane he's flying in.",
+        "eps_img" : "nightmareat20000feet.jpg"
+},
+{
+        "_id" : ObjectId("5aaacb09e92779e06cf9f400"),
+        "eps_name" : "To Serve Man",
+        "eps_number" : "S3.E24",
+        "synop" : "Michael Chambers recounts recent events on Earth after the arrival of a alien space craft. The aliens, known as Kanamit, seem friendly and assure everyone they have nothing to be afraid of. In fact, they offer to share wonderful technology that will provide limitless energy, cure all disease and convert deserts into lush gardens. For the people of Earth, paradise has arrived. Chambers is an encryption specialist and they try their best to decrypt a book the Kanamit left behind. The book's title seems benign - but it's not what they think it is.",
+        "teaser" : "An alien race comes to Earth, promising peace and sharing technology. A linguist and his team set out to translate the aliens' language, using a book whose title they deduce is 'To Serve Man'.",
+        "eps_img" : "toserveman.jpg"
+},
+{
+        "_id" : ObjectId("5aaad89de92779e06cf9f402"),
+        "eps_name" : "Bad Blood",
+        "eps_number" : "S5.E12",
+        "synop" : "After Mulder drives a stake through the heart of a would be vampire, he and Scully review what happened before they meet Assistant Director Skinner. Their recollection of the case is significantly divergent. They had gone to Texas to investigate a death by exsanguination and Scully thinks that someone is playing at being a vampire. Her autopsy finds a high level of chlorohydrate in the dead man's system. There's soon a second victim and she finds that both victims had eaten pizza. As she recalls it, she saved an incapacitated Mulder and tried to capture the culprit. Mulder's recollection is somewhat different. It was he, not Scully who developed the key clues in the case including the fact that the victim's shoes were untied and then discovering a second victim in a runaway RV. Before they can speak to Skinner, they have to return to Texas when the vampire Mulder killed seems to have disappeared.",
+        "teaser" : "Scully and Mulder each recount their version of events that led Mulder to drive a stake through the heart of a Texas teenager he claims was a vampire.",
+        "eps_img" : "badblood.jpg"
+},
+{
+        "_id" : ObjectId("5aaad89de92779e06cf9f403"),
+        "eps_name" : "Anasazi",
+        "eps_number" : "S2.E25",
+        "synop" : "A man known as 'The Thinker' has hacked into the U.S. Department of Defense mainframe and uncovered 50-years-worth of proof that the Gov't has been dealing with aliens. Mulder and Scully race against time to distinguish truth from lies, uncover the secrets, and survive them.",
+        "teaser" : "Mulder receives an encrypted computer disk containing the defense department's top secret files on extraterrestrial life and becomes a target. Scully takes him to a Navajo family that unearthed a buried secret to decipher the disk.",
+        "eps_img" : "anasazi.jpg"
+},
+{
+        "_id" : ObjectId("5aaad89de92779e06cf9f404"),
+        "eps_name" : "Clyde Bruckman's Final Repose",
+        "eps_number" : "S3.E4",
+        "synop" : "Scully and Mulder are called into the investigation of a series of murders where the victims were all psychics of some sort. A tea leaf reader, tarot card reader and palm reader are all the apparent victims of a serial killer. The local police have brought in a well-known TV psychic that Mulder finds laughable. He does come across Clyde Bruckman, an insurance salesman who may be a genuine psychic. While Scully is appropriately skeptical, Mulder realizes that Bruckman can only see one thing - how people will die.",
+        "teaser" : "A grumpy old man with psychic powers that show him how someone will die assists the agents with the hunt for a crazed killer who targets psychics. He also cryptically reveals to Mulder and Scully their own ultimate fates.",
+        "eps_img" : "finalrepose.jpg"
+},
+{
+        "_id" : ObjectId("5aaadb6ee92779e06cf9f406"),
+        "eps_name" : "Chapter Nine: The Gate",
+        "eps_number" : "S2.E9",
+        "synop" : "As the demodogs surround the house, Eleven surprisingly arrives and stops them. Eleven and Mike become emotional to finally see each other again and reunite with a hug, with both of them stating how they missed each other. After an emotional reunion, Mike figures out that Hopper had been hiding Eleven the whole time and he angrily blames him. However, they quickly reconcile and start forming a plan.",
+        "teaser" : "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+        "eps_img" : "thegate.jpg"
+},
+{
+        "_id" : ObjectId("5aaadb6ee92779e06cf9f407"),
+        "eps_name" : "Chapter Eight: The Mind Flayer",
+        "eps_number" : "S2.E8",
+        "synop" : "The Demogorgons invade the laboratory killing everybody inside and Joyce sedates Will that is connected and giving information to them. There is a blackout locking the laboratory and Hopper and Bob head to get the power and systems back to let Joyce, Will, Mike and Dr. Owens leave the security room. Meanwhile Dustin, Steve, Lucas and Max meet Nancy and Jonathan at the laboratory front gate. Soon Joyce, Will, Mike and Hopper join them and they head to Joyce's house. But the Demogorgons are hunting them down.",
+        "teaser" : "An unlikely hero steps forward when a deadly development puts the Hawkins lab on lockdown, trapping Will and several others inside.",
+        "eps_img" : "themindflayer.jpg"
+},
+{
+        "_id" : ObjectId("5aaadb6ee92779e06cf9f408"),
+        "eps_name" : "Chapter Eight: The Upside Down",
+        "eps_number" : "S1.E8",
+        "synop" : "Hopper and Joyce are interrogated by Dr. Brenner and his agents. Hopper makes a deal with Dr. Brenner in order to go to the Upside Down with Joyce to rescue Will. Meanwhile Jonathan and Nancy set up bear trap at Jonathan's home to kill the monster. Out of the blue, Steve arrives and is forced to fight the monster with Nancy and Jonathan. Brenner and his agents arrive at school to capture El, but she reacts protecting her friends with her powers and the blood attracts the monster. What will happen to them?",
+        "teaser" : "Joyce and Hopper are taken in for questioning. Nancy and Jonathan prepare to fight the monster and save Will.",
+        "eps_img" : "theupsidedown.jpg"
+},
+{
+        "_id" : ObjectId("5aaadf9ee92779e06cf9f40a"),
+        "eps_name" : "Out of Gas",
+        "eps_number" : "S1.E5",
+        "synop" : "Mal and the Serenity crew are celebrating Simon's birthday when there is a fire in the engine room. Soon Keylee learns that the life support system is not working since they need a new converter. Mal order his crew to live Serenity in the two shuttles and Wash releases a distress signal. While breathing with difficulty, Mal recalls how most of the members of his crew joined him in the Serenity while waits for a miracle.",
+        "teaser" : "When Serenity's life support system fails, Mal orders the crew off the ship - but he stays behind.",
+        "eps_img" : "outofgas.jpg"
+},
+{
+        "_id" : ObjectId("5aaadf9ee92779e06cf9f40b"),
+        "eps_name" : "Objects in Space",
+        "eps_number" : "S1.E10",
+        "synop" : "River has a daydream and holds one of Jayne's weapon believing it was a tree branch; suddenly she awakes and sees Mal and the crew scary. River overhears Mal and the crew discussing about her and she feels rejected. Meanwhile, the ruthless bounty hunter Jubal Early, who has tracked down River, boards the Serenity while everybody is sleeping. He subdues Mal and locks the crew in the cabins; ties Kaylee up in the engine room; hits Shepherd Book on the head; and he finally captures Simon to force him to deliver his sister. However River is missing and out of the blue, she tells through the communication system that she felt rejected and had melted away becoming part of Serenity. The skeptical Early does not believe first, but soon she is convinced she is telling the truth. What will happen to River? River has a daydream and holds one of Jayne's weapon believing it was a tree branch; suddenly she awakes and sees Mal and the crew scary. River overhears Mal and the crew discussing about her and she feels rejected. Meanwhile, the ruthless bounty hunter Jubal Early, who has tracked down River, boards the Serenity while everybody is sleeping. He subdues Mal and locks the crew in the cabins; ties Kaylee up in the engine room; hits Shepherd Book on the head; and he finally captures Simon to force him to deliver his sister. However River is missing and out of the blue, she tells through the communication system that she felt rejected and had melted away becoming part of Serenity. The skeptical Early does not believe first, but soon she is convinced she is telling the truth. What will happen to River?",
+        "teaser" : "Serenity encounters a ruthlessly professional bounty hunter, Jubal Early, who will stop at nothing to retrieve River. But River, feeling unwelcome on the ship, takes a novel approach to escaping from the Alliance.",
+        "eps_img" : "objectsinspace.jpg"
+},
+{
+        "_id" : ObjectId("5aaadf9ee92779e06cf9f40c"),
+        "eps_name" : "Our Mrs. Reynolds",
+        "eps_number" : "S1.E3",
+        "synop" : "Mal and his crew goes to a planet and they party with the locals. When the Serenity leaves the planet, Mal finds a beautiful woman called saffron sneaking in the ship and she tells that she is his wife. Shepherd recalls the party and concludes that Mal has married with Saffron in accordance with the costumes of the planet. While the crew is entertaining with the situation, Mal plans to leave Saffron on the next planet. But out of the blue, he is attacked by Saffron that also attacks Washburne. Who might be the mysterious Mrs. Reynolds?",
+        "teaser" : "A woman claiming to be Mal's wife appears aboard Serenity.",
+        "eps_img" : "ourmrsreynolds.jpg"
+},
+{
+        "_id" : ObjectId("5aaae710e92779e06cf9f40e"),
+        "eps_name" : "Trompe L'Oeil",
+        "eps_number" : "S1.E7",
+        "synop" : "Bernard unsuccessfully tries to contact Elsie. Then, Ford, Bernard and other employees have a meeting with Theresa Cullen and the executive Charlotte Hale. They explain that Clementine is a treat to the guests caused by Ford's update and Bernard is immediately fired. Charlotte plots a scheme to force Dr. Ford to leave Westworld. However the Machiavellian Dr. Ford discloses a lethal secret to Theresa. Meanwhile Dolores, William and El Lazo cross by train the dangerous Ghost Nation territory. They are ambushed by the Confederate soldiers but El Lazo manages to escape with Dolores and William. Maeve decides to leave Westworld.",
+        "teaser" : "Dolores, William and Lawrence journey into treacherous terrain; Maeve presents her demand; Bernard considers his next move.",
+        "eps_img" : "oeil.jpg"
+},
+{
+        "_id" : ObjectId("5aaae750e92779e06cf9f40f"),
+        "eps_name" : "The Adversary",
+        "eps_number" : "S1.E6",
+        "synop" : "Maeve interacts with Felix and convinces him to take a tour through the facility with her. The he asks him to increase her intelligence and mental capacity. Elsie gives the satellite link device to Bernard and he decides to visit Sector 17 where he finds Ford family home. Out of the blue, Ford comes and explains that he created his family using first generation hosts for sentimental reason. Meanwhile Elsie investigates the espionage system and she goes to an abandoned building discovering that Theresa Cullen is the spy. Teddy rides with the Man in Black and they are attacked and captured by Union soldiers after a shooting. Theresa breaks her relationship with Bernard.",
+        "teaser" : "Maeve charms Felix; Elsie discovers evidence that could point to sabotage; Teddy and the Man in Black conflict with a garrison.",
+        "eps_img" : "theadversary.jpg"
+},
+{
+        "_id" : ObjectId("5aaae787e92779e06cf9f410"),
+        "eps_name" : "The Original",
+        "eps_number" : "S1.E1",
+        "synop" : "As another day of fantasy plays out in Westworld - a vast, remote park where guests pay top dollar to share wild-west adventures with android 'hosts' - top programmer Bernard Lowe alerts park founder Dr. Robert Ford about incidents of aberrant behavior cropping up in some recently re-coded hosts. Meanwhile, in the Westworld town of Sweetwater, a rancher's daughter named Dolores encounters a gunslinger named Teddy in the street - but their predictable narrative is upended by the appearance of a ruthless Man in Black and, later, by a supporting host's unscripted encounter with an artifact of the outside world.",
+        "teaser" : "Programmer Bernard detects aberrant behavior in recently re-coded hosts; Dolores and Teddy's narrative is upended by a mysterious Man in Black.",
+        "eps_img" : "original.jpg"
+}]

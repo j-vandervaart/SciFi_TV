@@ -1,0 +1,664 @@
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('../fonts/raleway-regular-webfont.woff2') format('woff2'),
+         url('../fonts/raleway-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'titillium_webregular';
+    src: url('../fonts/titilliumweb-regular-webfont.woff2') format('woff2'),
+         url('../fonts/titilliumweb-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+/* Shows */
+
+#home {
+	min-height: 90vh;
+	padding-bottom: 10vh;
+	background: #1e5799; /* Old browsers */
+	background: -moz-linear-gradient(top, #1e5799 0%, #231f20 0%, #242443 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #1e5799 0%,#231f20 0%,#242443 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #1e5799 0%,#231f20 0%,#242443 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#242443',GradientType=0 ); /* IE6-9 */
+}
+
+#showContainer {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1000px;
+}
+
+.showDiv {
+	position: relative;
+	width: 100%;
+}
+
+#showHref {
+    display: block;
+    width: 50%;
+}
+
+.showImg {
+	display: block;
+	width: 100%;
+}
+
+#showTitle {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
+
+.nameDiv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 40%;
+	background-color: black;
+	opacity: .8;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.logo {
+	display: block;
+	width: 70px;
+	height: auto;
+	padding-top: 20px;
+	padding-left: 10%;
+}
+
+.logoDiv {
+	margin-bottom: 10%;
+}
+
+#logoText {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: #9F9F9F;
+	font-size: 20px;
+}
+
+#logoTextDiv {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 5%;
+}
+
+#scifi {
+	color: #6A69B0;
+}
+
+@media screen and (min-width: 768px) {
+	#showContainer {
+		width: 60%;
+	}
+
+	#logoTextDiv {
+		width: 60%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	#showContainer {
+		width: 70%;
+	}
+
+	#logoTextDiv {
+		width: 70%;
+	}	
+}
+
+@media screen and (min-width: 1025px) {
+	#showHref {
+		width: 25%;
+	}
+
+	#showContainer {
+		width: 80%;
+	}
+
+	.nameDiv {
+		opacity: 0;
+		height: 0;
+		transition: all .5s ease;
+	}
+
+	.fadeIn {
+		opacity: 1;
+		height: 40%;
+		transition: all .5s ease;
+	}
+
+	.showImg {
+		background-color: black;
+	}
+
+	.overlay {
+		background-color: black;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		z-index: 2;
+		opacity: .7;
+		transition: all .5s ease;
+	}
+
+	#logoTextDiv {
+		width: 20%;
+		float: right;
+		margin-right: 30%;
+		clear: right;
+		margin-top: 10%;
+	}
+
+	.logoDiv {
+		margin-bottom: 0;
+		float: left;
+		margin-left: 35%;
+		margin-top: 10%;
+	}
+
+	.logo {
+		padding: 0;
+		width: 125px;
+		position: relative;
+		bottom: 10px;
+	}
+}
+
+/* Single show component */
+
+.indShowImg {
+	display: block;
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	height: auto;
+	padding-top: 5%;
+}
+
+#individualShow {
+	min-height: 100vh;
+	padding-bottom: 30px;
+}
+
+.indDiv {
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.epDiv {
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.indName {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	border-bottom: 2px solid #6A69B0;
+}
+
+.indCopy {
+	font-family: ralewayregular, Helvetica, sans-serif;
+	padding-top: 5%;
+	line-height: 25px;
+}
+
+.indCast {
+	padding-top: 5%;
+	font-family: ralewayregular, Helvetica, sans-serif;
+	color: black;
+}
+
+#spanCast {
+	color: #6A69B0;
+}
+
+#topRatedTitle {
+	font-family: ralewayregular, Helvetica, sans-serif;
+	padding-top: 5%;
+	padding-left: 5%;
+	color: #6A69B0;
+	font-size: 20px;
+}
+
+#showLinkDiv {
+	padding: 5% 5% 0 5%;
+}
+
+.showLink {
+	display: block;
+	font-family: ralewayregular, Helvetica, sans-serif;
+	color: white;
+	padding-bottom: 10px;
+	font-size: 16px;
+}
+
+#blackBox {
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	margin-top: 5%;
+	background-color: #231F20;
+	box-shadow: 1px 1px 20px rgba(0,0,0, .3);
+}
+
+.sectionLogo {
+	width: 40px;
+	display: block;
+	margin-left: 5%;
+	margin-top: 25px;
+	padding: 10px;
+	background-color: #231F20;
+}
+
+#hamburg {
+	width: 60px;
+	height: 51.48px;
+	background-color: #231F20;
+	position: absolute;
+	top: 25px;
+	right: 5%;
+	z-index: 6;
+}
+
+.hamDiv {
+	margin: 0 auto;
+	width: 30px;
+	height: 3px;
+	background-color: #6A69B0;
+	margin-top: 11%;
+}
+
+.hamDiv:first-child {
+	margin-top: 14px;
+}
+
+.navDiv {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 0px;
+	box-shadow: 0px -5px 10px #cecece;
+	background-color: white;
+	height: 100vh;
+	z-index: 5;
+	transition: width .7s ease;
+	overflow-x: hidden;
+}
+
+.showNav {
+	width: 300px;
+}
+
+.navLink {
+	display: block;
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	padding-left: 20px;
+	padding-top: 30px;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	padding-bottom: 0;
+}
+
+.underline {
+	height: 3px;
+	width: 15px;
+	background-color: #6A69B0;
+	margin-left: 20px;
+	position: relative;
+	top: -4px;
+}
+
+@media screen and (min-width: 1025px) {
+	.navDiv {
+		width: auto;
+		/*position: absolute;*/
+		width: auto;
+		box-shadow: 0px 0px 0px #cecece;
+		background-color: transparent;
+		height: auto;
+		transition: width .7s ease;
+		overflow-x: hidden;
+		display: flex;
+		/*justify-content: flex-end;*/
+		justify-content: space-between;
+		padding-right: 8%;
+	}
+
+	.navLink {
+		/*display: inline-block;*/
+		float: right;
+		color: #6A69B0;
+		padding-left: 40px;
+		font-size: 18px;
+		opacity: .6; 
+		transition: opacity .5s ease;
+	}
+
+	.navLink:hover {
+		color: #6A69B0;
+		opacity: 1;
+	}
+
+	#hamburg {
+		display: none;
+	}
+
+	.epDiv {
+		width: 80%;
+	}
+
+	#container {
+		width: 90%;
+		max-width: 1000px;
+		margin: 0 auto;
+		display: flex;
+		margin-top: 3%;
+	}
+
+	#blackBox {
+		width: 20%;
+		margin-top: 0;
+		height: 400px;
+	}
+
+	.indShowImg {
+		padding-top: 0;
+	}
+
+	.showLink {
+		padding-bottom: 25px;
+		text-decoration: none;
+	}
+}
+
+/* Episode Component */
+
+#episode {
+	padding-bottom: 30px;
+}
+
+.epName {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	border-bottom: 2px solid #6A69B0;
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	padding-top: 3%;
+}
+
+.epShowImg {
+	display: block;
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	height: auto;
+	padding-top: 2%;
+}
+
+/* About */
+
+#about {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	min-height: 90vh;
+	padding-bottom: 10vh;
+	background: #1e5799; /* Old browsers */
+	background: -moz-linear-gradient(top, #1e5799 0%, #231f20 0%, #242443 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #1e5799 0%,#231f20 0%,#242443 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #1e5799 0%,#231f20 0%,#242443 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#242443',GradientType=0 ); /* IE6-9 */
+}
+
+#aboutTitle {
+	width: 85%;
+	margin: 0 auto;
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: white;
+	margin-top: 8%;
+	font-size: 26px;
+}
+
+#mainAboutDiv {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+#aboutCopy {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: white;
+}
+
+#scifiFans {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: white;
+	font-size: 20px;
+	margin-top: 5%;
+}
+
+#aboutHr {
+	margin-top: 10%;
+	width: 100%;
+	background-color: #6A69B0;
+	height: 2px;
+}
+
+#connected {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.aboutLinks {
+	list-style: none;
+	color: white;
+	text-align: center;
+	margin-top: 7%;
+	font-family: titillium_webregular, Helvetica, sans-serif;
+}
+
+.connectedA {
+	text-decoration: none;
+	
+}
+
+@media screen and (min-width: 1024px) {
+	.aboutLinks {
+		display: inline-block;
+		width: 24%;
+	}
+
+	.divide {
+		display: inline-block;
+		width: 2px;
+		height: 40px;
+		background-color: #6A69B0;
+		position: relative;
+		top: 15px;
+	}
+
+	#aboutTitle {
+		margin-top: 3%;
+		font-size: 36px;
+	}
+
+	#scifiFans {
+		font-size: 30px;
+		margin-top: 2%;
+	}
+}
+
+/* Featured */
+
+#mainFeatured {
+	width: 90%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.paraBreak {
+	padding-top: 20px;
+}
+
+.newsPrev {
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+	text-decoration: none;
+}
+
+.newsPrev h1 {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+	text-decoration: none;
+	color: black;
+	border-bottom: 3px solid #6A69B0;
+}
+
+.newsPrev p {
+	font-family: ralewayregular, Helvetica, sans-serif;
+	color: black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.newsPrev img {
+	width: 100%;
+	display: block;
+}
+
+.twilightzone {
+	order: 1;
+	background-color: #231F20;
+}
+
+.twilightzone h1 {
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.twilightzone p {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: white;
+}
+
+.xfiles {
+	order: 2;
+}
+
+.blackmirror {
+	order: 3;
+}
+
+.startrek {
+	order: 4;
+}
+
+.strangerthings {
+	order: 5;
+}
+
+@media screen and (min-width: 768px) {
+	#mainFeatured {
+		width: 70%
+		max-width: 600px;
+	}
+
+	.newsPrev {
+		width: 45%;
+	}
+
+	.twilightzone {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 1025px) {
+	.newsPrev {
+		width: 22%;
+	}
+
+	#mainFeatured {
+		width: 80%;
+	}
+
+	.twilightzone {
+		width: 100%;
+	}
+
+	.twilightzone img {
+		width: 48%;
+		float: left;
+	}
+
+	.twilightzone h1 {
+		width: 45%;
+		float: right;
+		margin-top: 3vw;
+		margin-right: 20px;
+	}
+
+	.twilightzone p {
+		width: 45%;
+		float: right;
+		margin-right: 20px;
+	}
+}
+
+/* Single Story */
+
+#story {
+	padding-bottom: 50px;
+}
+
+#storyDiv {
+	padding-top: 40px;
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+#storyDiv h1 {
+	font-family: titillium_webregular, Helvetica, sans-serif;
+}
+
+#storyDiv p {
+	font-family: ralewayregular, Helvetica, sans-serif;
+}
+
+#storyDiv h4 {
+	font-family: ralewayregular, Helvetica, sans-serif;
+	color: #6A69B0;
+	padding-top: 10px;
+}
+
+#storyDiv img {
+	width: 100%;
+}
